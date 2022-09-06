@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+  margin: 80px 80px 90px 300px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 30px;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
